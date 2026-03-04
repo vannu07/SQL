@@ -87,7 +87,7 @@ SQL/
 
 <div align="center">
 
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x100.png" width="250" height="150" alt="MySQL Logo"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="250" height="250" alt="MySQL Logo"/>
 
 </div>
 
