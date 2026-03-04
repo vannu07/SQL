@@ -10,28 +10,73 @@
 
 ---
 
-## 📚 Interview Preparation & Practical Knowledge
+## 📁 Repository Structure
 
-### SQL Fundamentals
-- **JOINS**: Inner, Left, Right, Full, Cross, Self
-- **Normalization**: 1NF, 2NF, 3NF, BCNF
-- **Query Optimization**: Indexes, Execution Plans, Query Analysis
-- **Transactions**: ACID Properties, Locks, Isolation Levels
-- **Advanced Functions**: Window Functions, CTEs, Recursive Queries
+```
+SQL/
+├── JOINS/
+│   ├── inner_join.sql
+│   ├── left_join.sql
+│   ├── right_join.sql
+│   ├── full_join.sql
+│   ├── cross_join.sql
+│   ├── self_join.sql
+│   └── union.sql
+├── NORMALIZATION/
+│   └── normalization.sql
+└── README.md
+```
 
-### Database Design
-- Entity-Relationship Diagrams (ERD)
-- Normalization Principles
-- Schema Design Patterns
-- Performance Considerations
-- Backup & Recovery Strategies
+---
 
-### Real-World Scenarios
-- Data Warehousing
-- ETL Processes
-- Report Generation
-- Data Analysis & Insights
-- Complex Business Logic Implementation
+## 📚 Complete SQL Learning Guide
+
+### 🔥 Database Fundamentals
+- **Database Explained**: The Ultimate Guide That Will Make You a Data Expert! 🚀
+- **SQL Basics Made Easy**: DDL, DML, DCL & TCL Explained in 10 Minutes! 🔥 (Beginner's Guide)
+- **Learn Basic Database Terminologies**: SQL, Schema, Index, Primary Key & More (Easy Guide!)
+
+### 📊 Data Types & Database Operations
+- **MySQL Data Types Mastery**: VARCHAR vs INT vs DATETIME vs BLOB 🔥 (2025 Guide)
+- **Master SQL Database in ONE VIDEO**: Create, Use, Drop & Show
+- **SQL Tutorial**: Create, Alter, Drop & Insert Into Table Commands Explained Simply!
+
+### 🎯 SELECT & Filtering Mastery
+- **Master SQL SELECT in ONE Video**: Complete Tutorial 2025
+- **Master WHERE Clause in SQL**: NULL, LIKE, BETWEEN, Subqueries | Complete Filtering Guide 2025
+- **SQL Logical Operators Made Easy**: AND, OR, NOT Explained for Beginners
+- **Master Comparison Operators in SQL**: Complete Tutorial
+
+### 📈 Advanced Query Techniques
+- **ORDER BY in MySQL**: Single, Multiple Field, Function, Field, Case, Null Handling
+- **Master LIMIT & OFFSET in MySQL**
+- **MySQL Alias Explained**: Simplify Queries with Table & Column Aliases
+- **Mastering DISTINCT in MySQL**: How to Select distinct records from columns
+
+### 🔧 Functions & Aggregations
+- **SQL Functions Mastery**: String, Date, Math & Aggregate Tutorial
+- **MySQL GROUP BY & HAVING**: Advanced SQL Filtering Techniques
+
+### 🗝️ Database Design & Relationships
+- **SQL Primary Keys Mastery**: Database Design Fundamentals | Complete Tutorial
+- **SQL Foreign Keys**: Master Database Relationships in 15 Mins
+
+### 💡 Advanced Queries & Modifications
+- **Mastering MySQL Subqueries**: Real-World Online Store Database Tutorial
+- **MySQL UPDATE Mastery**: Essential Techniques for Database Pros
+- **Deleting Rows in SQL**: Delete vs Truncate in SQL
+- **SQL REPLACE Statement**: Combination of INSERT & DELETE
+
+### 🎯 Joins & Relationships
+- **INNER JOIN**: Complete Tutorial
+- **LEFT JOIN**: Master Database Relationships
+- **RIGHT JOIN**: Advanced Joining Techniques
+- **FULL JOIN**: Complete Outer Join Mastery
+- **CROSS JOIN**: Cartesian Product Explained
+- **SELF JOIN**: Working with Table References
+
+### 📋 Database Normalization
+- **NORMALIZATION**: 1NF, 2NF, 3NF, BCNF - Complete Database Design Guide
 
 ---
 
@@ -43,14 +88,12 @@
 
 ---
 
-## 📁 Repository Structure
+## 🎓 More Content Coming Soon!
 
-```
-SQL/
-├── JOINS/
-│   ├── normalization.sql
-└── README.md
-```
+<p align="center">
+  <strong>Stay Tuned for More Advanced SQL Topics! 📌</strong><br>
+  <em>More tutorials, real-world examples, and advanced techniques are on the way...</em>
+</p>
 
 ---
 
@@ -58,6 +101,6 @@ SQL/
 
 **Happy Learning! 🚀**
 
-*Keep practicing and mastering SQL*
+*Master SQL and become a Database Expert!*
 
 </div>
