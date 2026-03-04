@@ -29,7 +29,23 @@ SQL/
 
 ---
 
-## 📚 Complete SQL Learning Guide
+## 🎯 Currently Available Content
+
+### 📋 Database Normalization
+- **NORMALIZATION**: 1NF, 2NF, 3NF, BCNF - Complete Database Design Guide ✅
+
+### 🎯 Joins & Relationships
+- **INNER JOIN**: Complete Tutorial ✅
+- **LEFT JOIN**: Master Database Relationships ✅
+- **RIGHT JOIN**: Advanced Joining Techniques ✅
+- **FULL JOIN**: Complete Outer Join Mastery ✅
+- **CROSS JOIN**: Cartesian Product Explained ✅
+- **SELF JOIN**: Working with Table References ✅
+- **UNION**: Combining Query Results ✅
+
+---
+
+## 📚 Coming Soon - Stay Tuned! 🎓
 
 ### 🔥 Database Fundamentals
 - **Database Explained**: The Ultimate Guide That Will Make You a Data Expert! 🚀
@@ -67,39 +83,26 @@ SQL/
 - **Deleting Rows in SQL**: Delete vs Truncate in SQL
 - **SQL REPLACE Statement**: Combination of INSERT & DELETE
 
-### 🎯 Joins & Relationships
-- **INNER JOIN**: Complete Tutorial
-- **LEFT JOIN**: Master Database Relationships
-- **RIGHT JOIN**: Advanced Joining Techniques
-- **FULL JOIN**: Complete Outer Join Mastery
-- **CROSS JOIN**: Cartesian Product Explained
-- **SELF JOIN**: Working with Table References
-
-### 📋 Database Normalization
-- **NORMALIZATION**: 1NF, 2NF, 3NF, BCNF - Complete Database Design Guide
-
 ---
 
 <div align="center">
 
-<img src="https://media.tenor.com/J1Z0g-6WOHsAAAAC/sql-logo.gif" width="200" height="200" alt="SQL 3D Logo"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x100.png" width="250" height="150" alt="MySQL Logo"/>
 
 </div>
 
 ---
 
-## 🎓 More Content Coming Soon!
+<div align="center">
+
+## 🚀 More Content Coming Soon!
 
 <p align="center">
   <strong>Stay Tuned for More Advanced SQL Topics! 📌</strong><br>
-  <em>More tutorials, real-world examples, and advanced techniques are on the way...</em>
+  <em>New tutorials, real-world examples, and advanced techniques are being uploaded regularly...</em>
 </p>
 
----
-
-<div align="center">
-
-**Happy Learning! 🚀**
+**Happy Learning! 🎓**
 
 *Master SQL and become a Database Expert!*
 
