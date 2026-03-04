@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,36&height=180&section=header&text=SQL%20Mastery&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
@@ -7,7 +7,11 @@
 </p>
 
 </div>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="250" height="250" alt="MySQL Logo"/>
+
+</div>
 ---
 
 ## 📁 Repository Structure
