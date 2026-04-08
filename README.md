@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Advanced+SQL+Techniques;Database+Design+%7C+Optimization;Complex+Queries+%7C+Joins;Performance+Tuning+Mastery" alt="SQL Typing" />
 </p>
-
 </div>
 <div align="center">
 
